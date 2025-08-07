@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\BankingApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D930457-D8BD-4BBF-A773-0730667F9488}|User\\User.csproj|c:\\users\\user\\source\\repos\\bankingapp\\user\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D930457-D8BD-4BBF-A773-0730667F9488}|User\\User.csproj|solutionrelative:user\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34924E0D-A4D1-4D60-98B8-9C757EEBC435}|Customer\\Customer.csproj|c:\\users\\user\\source\\repos\\bankingapp\\customer\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34924E0D-A4D1-4D60-98B8-9C757EEBC435}|Customer\\Customer.csproj|solutionrelative:customer\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D930457-D8BD-4BBF-A773-0730667F9488}|User\\User.csproj|c:\\users\\user\\source\\repos\\bankingapp\\user\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D930457-D8BD-4BBF-A773-0730667F9488}|User\\User.csproj|solutionrelative:user\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34924E0D-A4D1-4D60-98B8-9C757EEBC435}|Customer\\Customer.csproj|c:\\users\\user\\source\\repos\\bankingapp\\customer\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34924E0D-A4D1-4D60-98B8-9C757EEBC435}|Customer\\Customer.csproj|solutionrelative:customer\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D930457-D8BD-4BBF-A773-0730667F9488}|User\\User.csproj|c:\\users\\user\\source\\repos\\bankingapp\\user\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D930457-D8BD-4BBF-A773-0730667F9488}|User\\User.csproj|solutionrelative:user\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34924E0D-A4D1-4D60-98B8-9C757EEBC435}|Customer\\Customer.csproj|c:\\users\\user\\source\\repos\\bankingapp\\customer\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34924E0D-A4D1-4D60-98B8-9C757EEBC435}|Customer\\Customer.csproj|solutionrelative:customer\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D930457-D8BD-4BBF-A773-0730667F9488}|User\\User.csproj|c:\\users\\user\\source\\repos\\bankingapp\\user\\models\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D930457-D8BD-4BBF-A773-0730667F9488}|User\\User.csproj|solutionrelative:user\\models\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34924E0D-A4D1-4D60-98B8-9C757EEBC435}|Customer\\Customer.csproj|c:\\users\\user\\source\\repos\\bankingapp\\customer\\models\\dtos\\customercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34924E0D-A4D1-4D60-98B8-9C757EEBC435}|Customer\\Customer.csproj|solutionrelative:customer\\models\\dtos\\customercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D930457-D8BD-4BBF-A773-0730667F9488}|User\\User.csproj|c:\\users\\user\\source\\repos\\bankingapp\\user\\models\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D930457-D8BD-4BBF-A773-0730667F9488}|User\\User.csproj|solutionrelative:user\\models\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34924E0D-A4D1-4D60-98B8-9C757EEBC435}|Customer\\Customer.csproj|c:\\users\\user\\source\\repos\\bankingapp\\customer\\models\\entities\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34924E0D-A4D1-4D60-98B8-9C757EEBC435}|Customer\\Customer.csproj|solutionrelative:customer\\models\\entities\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D930457-D8BD-4BBF-A773-0730667F9488}|User\\User.csproj|c:\\users\\user\\source\\repos\\bankingapp\\user\\extensions\\servicecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D930457-D8BD-4BBF-A773-0730667F9488}|User\\User.csproj|solutionrelative:user\\extensions\\servicecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34924E0D-A4D1-4D60-98B8-9C757EEBC435}|Customer\\Customer.csproj|c:\\users\\user\\source\\repos\\bankingapp\\customer\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34924E0D-A4D1-4D60-98B8-9C757EEBC435}|Customer\\Customer.csproj|solutionrelative:customer\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34924E0D-A4D1-4D60-98B8-9C757EEBC435}|Customer\\Customer.csproj|c:\\users\\user\\source\\repos\\bankingapp\\customer\\data\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34924E0D-A4D1-4D60-98B8-9C757EEBC435}|Customer\\Customer.csproj|solutionrelative:customer\\data\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D930457-D8BD-4BBF-A773-0730667F9488}|User\\User.csproj|c:\\users\\user\\source\\repos\\bankingapp\\user\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D930457-D8BD-4BBF-A773-0730667F9488}|User\\User.csproj|solutionrelative:user\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +42,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankingApp\\Customer\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Customer\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankingApp\\Customer\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "Customer\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:43:24.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankingApp\\Customer\\Models\\DTOs\\CustomerCreateDto.cs",
+              "RelativeDocumentMoniker": "Customer\\Models\\DTOs\\CustomerCreateDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankingApp\\Customer\\Models\\DTOs\\CustomerCreateDto.cs",
+              "RelativeToolTip": "Customer\\Models\\DTOs\\CustomerCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:40:09.932Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -62,80 +96,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankingApp\\User\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "User\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\BankingApp\\User\\Controllers\\UserController.cs",
-              "RelativeToolTip": "User\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T15:25:28.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UserLoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankingApp\\User\\Models\\DTOs\\UserLoginDto.cs",
-              "RelativeDocumentMoniker": "User\\Models\\DTOs\\UserLoginDto.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\BankingApp\\User\\Models\\DTOs\\UserLoginDto.cs",
-              "RelativeToolTip": "User\\Models\\DTOs\\UserLoginDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Title": "CustomerEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankingApp\\Customer\\Models\\Entities\\CustomerEntity.cs",
+              "RelativeDocumentMoniker": "Customer\\Models\\Entities\\CustomerEntity.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankingApp\\Customer\\Models\\Entities\\CustomerEntity.cs",
+              "RelativeToolTip": "Customer\\Models\\Entities\\CustomerEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T15:10:49.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserRegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankingApp\\User\\Models\\DTOs\\UserRegisterDto.cs",
-              "RelativeDocumentMoniker": "User\\Models\\DTOs\\UserRegisterDto.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\BankingApp\\User\\Models\\DTOs\\UserRegisterDto.cs",
-              "RelativeToolTip": "User\\Models\\DTOs\\UserRegisterDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T15:10:46.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankingApp\\User\\Services\\IUserService.cs",
-              "RelativeDocumentMoniker": "User\\Services\\IUserService.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\BankingApp\\User\\Services\\IUserService.cs",
-              "RelativeToolTip": "User\\Services\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T15:10:15.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ServiceCollection.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankingApp\\User\\Extensions\\ServiceCollection.cs",
-              "RelativeDocumentMoniker": "User\\Extensions\\ServiceCollection.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\BankingApp\\User\\Extensions\\ServiceCollection.cs",
-              "RelativeToolTip": "User\\Extensions\\ServiceCollection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T14:55:58.248Z",
+              "WhenOpened": "2025-08-07T16:40:31.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankingApp\\User\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "User\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\BankingApp\\User\\Services\\UserService.cs",
-              "RelativeToolTip": "User\\Services\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAJAAAA",
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankingApp\\Customer\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Customer\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankingApp\\Customer\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Customer\\Services\\CustomerService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T14:55:12.699Z",
+              "WhenOpened": "2025-08-07T16:32:18.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankingApp\\Customer\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Customer\\Services\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankingApp\\Customer\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "Customer\\Services\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:29:54.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankingApp\\Customer\\Data\\CustomerDbContext.cs",
+              "RelativeDocumentMoniker": "Customer\\Data\\CustomerDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankingApp\\Customer\\Data\\CustomerDbContext.cs",
+              "RelativeToolTip": "Customer\\Data\\CustomerDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:18:02.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankingApp\\User\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "User\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankingApp\\User\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "User\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:12:08.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankingApp\\Customer\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Customer\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankingApp\\Customer\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Customer\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:07:58.89Z",
               "EditorCaption": ""
             }
           ]

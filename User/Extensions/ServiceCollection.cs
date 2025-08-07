@@ -9,7 +9,7 @@ namespace User.Extensions
     public static class ServiceCollection
     {
 
-        //: IServiceCollection .Net Coreda DI üçün istifadə olunan interfeysdir.Servislər avtomatik olaraq constructor-a inject olunur (DI)
+        
         public static IServiceCollection AddUserServices(this IServiceCollection services, IConfiguration configuration)
         {
             services.AddDbContext<UserDbContext>(options =>

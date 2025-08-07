@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bXKY4nC2Wn3xYaQFaSTADsCYB0CnxCuTG4SRMkEeaOs=",
+  "Source": "Transaction",
+  "BasePath": "_content/Transaction",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

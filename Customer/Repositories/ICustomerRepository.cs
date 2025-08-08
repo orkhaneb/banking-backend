@@ -8,5 +8,6 @@ namespace Customer.Repositories
         Task<CustomerEntity> GetByIdAsync(int id);
         Task<List<CustomerEntity>> GetAllAsync();
         Task<CustomerEntity> GetByUserIdAsync(int userId);
+        Task UpdateAsync(CustomerEntity customer);
     }
 }

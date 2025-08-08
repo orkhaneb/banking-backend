@@ -37,5 +37,11 @@ namespace Customer.Repositories
             return await _context.Customers.FirstOrDefaultAsync(x => x.UserId == userId && !x.IsDeleted);
         }
 
+        public async Task UpdateAsync(CustomerEntity customer)
+        {
+            _context.Customers.Update(customer);
+            await _context.SaveChangesAsync();
+        }
+
     }
 }

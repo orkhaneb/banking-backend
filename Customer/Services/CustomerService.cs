@@ -42,19 +42,60 @@ namespace Customer.Services
             await _repository.AddAsync(entity);
         }
 
-        public Task DeleteAsync(int Id)
+        public async Task UpdateAsync(int Id, CustomerUpdateDto dto)
         {
-            throw new NotImplementedException();
+            var customer = await _repository.GetByIdAsync(Id);
+            if (customer == null)  throw new Exception("Müştəri tapılmadı.");
+
+            customer.Name = dto.Name;
+            customer.Surname= dto.Surname;
+            customer.PhoneNumber= dto.PhoneNumber;
+            customer.BirthDate=dto.BirthDate;
+
+            await _repository.UpdateAsync(customer);
+
+
         }
 
-        public Task<List<CustomerResponseDto>> GetAllAsync()
+        public async Task<List<CustomerResponseDto>> GetAllAsync()
         {
-            throw new NotImplementedException();
+            var customers = await _repository.GetAllAsync();
+            return customers.Select(x=> new CustomerResponseDto {
+
+                Id= x.Id,
+                Name = x.Name,
+                Surname= x.Surname,
+                BirthDate= x.BirthDate,
+                PhoneNumber= x.PhoneNumber,
+                Balance= x.Balance
+            }).ToList();
         }
 
-        public Task<CustomerResponseDto> GetByIdAsync(int Id)
+        public async Task<CustomerResponseDto> GetByIdAsync(int Id)
         {
-            throw new NotImplementedException();
+            var customer = await _repository.GetByIdAsync(Id);
+            if (customer == null || customer.IsDeleted) return null;
+
+            return new CustomerResponseDto
+            {
+                Id = customer.Id,
+                Name = customer.Name,
+                Surname = customer.Surname,
+                BirthDate = customer.BirthDate,
+                PhoneNumber = customer.PhoneNumber,
+                Balance = customer.Balance
+            };
         }
+
+        public async Task DeleteAsync(int Id)
+        {
+            var customer = await _repository.GetByIdAsync(Id);
+            if (customer != null)
+            {
+                customer.IsDeleted = true;
+                await _repository.AddAsync(customer); 
+            }
+        }
+
     }
 }
